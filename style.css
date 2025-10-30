@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Segoe UI';
+  background-color: #fafafa;
+  line-height: 1.6;
+}
+header {
+  background-color: #076679;
+  padding: 30px;
+  text-align: center;
+}
+section {
+  width: 80%;
+  max-width: 800px;
+  margin: 30px auto;
+  background-color: white;
+  padding: 25px;
+  border-radius: 6px;
+}
